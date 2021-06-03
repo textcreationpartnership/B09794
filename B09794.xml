@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for a new adventure, wherein none can be unfortunate greater allowance being made to the blanks, than was in the million adventure, with the same security, and managed by the same commissioners.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09794</idno><idno type="EEBO-CITATION">52614855_191965</idno>
+  <idno type="VID">191965</idno>
+  <idno type="EEBO-PROQUEST">2264191171</idno>
+  
+            <idno type="OCLC"> 52614855</idno>
+            <idno type="STC">Wing P3688A</idno>
+            <idno type="STC">ESTC R233599</idno>
+            <idno type="OCLC">52614855</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09794)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191965)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2760:3, 1641-1700 , 2896:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for a new adventure, wherein none can be unfortunate greater allowance being made to the blanks, than was in the million adventure, with the same security, and managed by the same commissioners.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Item at 2760:3 imperfect: print show-through, with loss of text.</note>
+                  <note>Reproductions of originals in the Trinty College (Dublin, Ireland) Library (2760:3) and Boston Public Library (2896:37).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lotteries --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Finance, Public --  Great Britain --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:191965:1"/>
+            <head>A <hi>PROPOSAL</hi> for a New Adventure, wherein none can he Ʋnfortunate, greater Allowance being made to the Blanks, than was in the <hi>Million Adventure,</hi> with the same Security, and Managed by the same Commission<g ref="char:EOLhyphen"/>ers.</head>
+            <p>FOur Thousand Lots will be delivered out at 14 <hi>l.</hi> per Lot, which amounts to 56000 <hi>l.</hi> to be laid out in Purchasing 8000 Blank Tickets of the Million Adventure, which will raise a Fund of 8000 <hi>l. per Annum,</hi> for the paying of the several Prizes, Principal and Interest, in the Table hereafter menti<g ref="char:EOLhyphen"/>oned.</p>
+            <p>
+               <hi>The Prizes are these:</hi>
+               <table>
+                  <row>
+                     <cell role="label">Prize.</cell>
+                     <cell role="label">l</cell>
+                     <cell role="label">l.</cell>
+                  </row>
+                  <row>
+                     <cell>1 Ticket of</cell>
+                     <cell>1000</cell>
+                     <cell>1000</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>500</cell>
+                     <cell>500</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>40</cell>
+                     <cell>400</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>300</cell>
+                     <cell>300</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>200</cell>
+                     <cell>1200</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>100</cell>
+                     <cell>1000</cell>
+                  </row>
+                  <row>
+                     <cell>180</cell>
+                     <cell>50</cell>
+                     <cell>9000</cell>
+                  </row>
+                  <row>
+                     <cell>200</cell>
+                     <cell>33</cell>
+                     <cell>6600</cell>
+                  </row>
+                  <row>
+                     <cell role="total">400 Prizes.</cell>
+                     <cell role="total"> </cell>
+                     <cell role="total">20000 with Interest at 6 <hi>l. per Cent.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3600 Blanks.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="total">4000 The odds 9 to 1.</cell>
+                     <cell role="total"> </cell>
+                     <cell role="total"> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>These Prizes are payable in different Years, <hi>but are all to have</hi> Interest <hi>allowed to them,</hi> at the rate of six <hi>per Cent. per Annum,</hi> from <hi>Michaelmas</hi> 1695, to the Year the Lot is payable in.</p>
+            <p>
+               <hi>As for Example.</hi>
+               <list>
+                  <item>The First Prize is 1000<hi>l.</hi> payable in the Year 1710. So that whoever Draws that Prize, will have paid him 60<hi>l. per Annum</hi> for 14 Years, and 1000<hi>l.</hi> the 15th. Year, which is <hi>Michaelmas,</hi> 1710.</item>
+                  <item>The Second Prize is of 500<hi>l.</hi> payable in the Year 1709. he who Draws that Prize will receive 30<hi>l. per Annum</hi> for 13 Years, and 500<hi>l.</hi> at <hi>Michaelmas</hi> 1709. which is the 14th.</item>
+                  <item>And so in their order all the Prizes Receive Interest at 6<hi>l. per Cent. per Annum,</hi> till the Year they are paid.</item>
+               </list>
+            </p>
+            <p>The Blanks, which are 3600, Receive 7 <hi>per Cent.</hi> Interest, and their Principal again, and one Drawing shall Determine in what Year both Blanks and Pizes shall be paid.</p>
+            <p>
+               <hi>As for Example,</hi>
+               <lb/> Suppose a Blank Ticket is payable the 12th. Year, <hi>Michaelmas</hi> 1707, the Owner of that Ticket shall Receive 1<hi>l. per Annum</hi> for 11 Years, and 15<hi>l.</hi> the 12th. Year, which is 7<hi>l. per Cent. per Annum,</hi> till the time of Payment, and his Principal again. So that this Adventure gives 1 <hi>per Cent.</hi> more Advantage to the Blanks than the Million Adventure.</p>
+            <pb facs="tcp:191965:2"/>
+            <p> The Goldsmiths hereafter named, who are Appointed Receivers of the Money, or Tickets, are to be Trustees and Keepers of the same for the use of the Adventurers, till the Lottery shall be Drawn, and then joyntly with the Managers shall deliver out the Pay Tickets to the several Proprietors, according to their Lots.</p>
+            <p>The Goldsmiths to give a Receipt to the Adventurers after this manner:
+<q>
+                  <hi>I</hi> Promise to Return the Bearer hereof Fourteen Pounds, or Two Blank Tickets of the <hi>Million Adventure,</hi> if this Lottery be not Drawn by the Twentieth Day of <hi>June</hi> next.</q>
+            </p>
+            <p>
+               <label>The Names of the Receivers.</label> Sir <hi>Stephen Evans,</hi> Mr. <hi>Whitefield Hayter,</hi> Sir <hi>John Sweetapple,</hi> Mr. <hi>Ben. Hoskins,</hi> Mr. <hi>Thomas Williams,</hi> Mr. <hi>Smith</hi> and Mr. <hi>Spinks</hi> in <hi>Lombard-street,</hi> Mr. <hi>Edward Mompesson</hi> in <hi>Birchin-lane,</hi> Mr. <hi>James Hallet,</hi> and Mr. <hi>Edward Harrison</hi> in <hi>Cheapside,</hi> Mr. <hi>Robert Fowles</hi> in <hi>Fleet-street,</hi> Mr. <hi>George Hallet,</hi> and Mr. <hi>Joseph Fells</hi> in the <hi>Strand,</hi> Goldsmiths.</p>
+            <p>Within Twenty days after the Lottery is Drawn, each Adventurer shall Receive as many Twenty Shilling Tickets of the <hi>Million Adventure,</hi> Payable at the Exche<g ref="char:EOLhyphen"/>quer, as shall amount to the Value of their respective Lots, and the Yearly Interest of them.</p>
+            <p>
+               <hi>As for Example:</hi>
+               <lb/> Suppose the Lot Drawn be that of 1000<hi>l.</hi> payable in the Year 1710, the Owner shall Receive 60 Twenty Shilling Tickets of the <hi>Million Adventure,</hi> Payable 1696. 60 <hi>Ditto,</hi> Payable 1697. And so on for every Year; and One Thousand <hi>Ditto</hi> Tickets Payable in the Year 1710. and the like of the rest. So all their Tickets, both for Principal and Interest, will be put into their hands immediately, and the Money to be received at the Exchequer as it grows due.</p>
+            <p>The whole Money being to be vested in Tickets of the <hi>Million Adventure,</hi> all Persons who bring in two Tickets of the <hi>Million Adventure,</hi> shall be accepted at 15 <hi>l.</hi> the one Pound shall be repaid them by a Ticket of the <hi>Million Adventure,</hi> pay<g ref="char:EOLhyphen"/>able <hi>Michaelmas</hi> 1695. So that by this Method every Ticket is as Valuable as 7<hi>l.</hi> 10 <hi>s.</hi>
+            </p>
+            <p>Any Person who has put in Tickets into the Proposals made by Mr. <hi>Neale</hi> and Mr. <hi>Thomas</hi> for Exchanging Tickets, shall have two of their Receipts accepted for the said 14<hi>l.</hi> what Year soever they are, or shall be Drawn for; and if they are, or shall be Drawn for such Years as makes them more valuable, they shall be accepted for more Money in proportion, for which Instructions shall be left with the Gold<g ref="char:EOLhyphen"/>smiths Receivers.</p>
+            <p>If the whole be not filled by the 20th. of <hi>June</hi> next, the Adventure shall be ex<g ref="char:EOLhyphen"/>actly proportioned, and it shall be Drawn the same manner as that of the <hi>Million Adventure;</hi> of the Method, Time, and Place, Publick Notice shall be given, at least Sixteeen Days before the Drawing.</p>
+            <p>
+               <label>The Names of the Managers.</label>
+               <lb/> Sir <hi>John Morden,</hi> Baronet; Sir <hi>Peter Paravicin,</hi> Sir <hi>Charles Cotterel,</hi> Knights; <hi>Christopher Montague, Peter Hume, Richard Trevor, John Isham, Nic. Fenn, John Thrale, Alvaro De Cocta,</hi> Esquires.</p>
+            <closer>
+               <dateline>
+                  <date>April 22 1695.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertisement.</head>
+            <p>
+               <hi>The Works</hi> of the Right Honourable <hi>Henry</hi> late Lord <hi>Delamer,</hi> and Earl of <hi>Warrington,</hi> containing his Lord<g ref="char:EOLhyphen"/>ship's Advice to his Children, with about 32 Ori<g ref="char:EOLhyphen"/>ginal Manuscripts, written with his Lordship's own hand. Price bound 5 <hi>s.</hi>
+            </p>
+            <p>The <hi>Tigurine</hi> Liturgy, published with the approba<g ref="char:EOLhyphen"/>tion of Six Reverend Bishops.</p>
+            <p>Dr. <hi>Burthogg</hi>'s Essay upon Reason, and the Nature of spirits, dedicated to Mr. <hi>Lock.</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Dunton</hi> at the <hi>Raven</hi> in <hi>Jewen-Street,</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
